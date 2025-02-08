@@ -39,5 +39,5 @@ O grau de Treinamento é o nível de habilidade que você possui ao fazer certa 
 - **Persuasão**: Capacidade de convencer, negociar ou influenciar outros por meio de diálogo ou argumentos.
 - **Vontade**: Resistência mental para resistir a efeitos como medo, ilusões, possessões ou tentativas de manipulação psicológica, aplicada em situações que testam a força interior e o autocontrole.
 
-Após os valores base das Perícias serem calculados, é necessário levar em conta sua Origem e Classe:
-[[Capítulo 4 - Origens, Classes e Mais]]
+Após sua ficha base ser completa, o que resta são escolher seus equipamentos e formar sua técnica amaldiçoada.
+[[Capítulo 5 - Técnicas Amaldiçoadas]]

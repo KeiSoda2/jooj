@@ -1,3 +1,0 @@
-[[Derivado]]
-[[Herdado]]
-[[Híbrido]]

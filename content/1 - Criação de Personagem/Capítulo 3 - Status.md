@@ -8,4 +8,4 @@ Os Status principais são os seguintes:
 Quando seu valor de HP chega a 0, você entra na condição de Morrendo, onde você deve, a cada turno seu em um combate, rolar um teste D20 puro para sair da condição. Um resultado de 10 ou acima é um Sucesso, três sucessos e seu personagem sai da condição Morrendo e volta a vida com 1 de HP. Um resultado abaixo de 10 é uma falha, três falhas e seu personagem morre completamente. Um 20 no dado te faz voltar a vida instantaneamente, um resultado 1 te dá duas falhas automaticamente.
 
 Após seus Status serem calculados, é necessário colocar os valores bases em suas Perícias:
-[[Capítulo 3 - Perícias]]
+[[Capítulo 4 - Perícias]]

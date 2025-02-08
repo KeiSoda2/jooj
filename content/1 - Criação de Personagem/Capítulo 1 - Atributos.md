@@ -6,11 +6,11 @@ Os cinco atributos principais para a ficha de personagem são os seguintes:
 * **Inteligência** - Seu conhecimento acadêmico, aquilo que você sabe não por experiência e sim por estudo, raciocínio lógico puro.
 * **Carisma** - Sua personalidade e poder de influenciar aqueles ao seu redor, seja de forma positiva ou negativa.
 
-Esses atributos básicos ditam sua habilidade base com suas [Perícias](Capítulo%203%20-%20Perícias.md), se você tem um valor de 2 em Destreza por exemplo, mesmo se você não for treinado, você ainda recebe um bônus de +2 em acrobacia comparado com uma pessoa com Destreza menor.
+Esses atributos básicos ditam sua habilidade base com suas [Perícias](Capítulo%204%20-%20Perícias.md), se você tem um valor de 2 em Destreza por exemplo, mesmo se você não for treinado, você ainda recebe um bônus de +2 em acrobacia comparado com uma pessoa com Destreza menor.
 
-Para adicionar os atributos a sua ficha de personagem, distribua 12 pontos entre os 6 atributos **até um máximo de 4 por atributo**. Cada atributo começa com 0 de valor, e até dois pontos podem ser retirados desse valor de zero para colocar em outro atributo, ainda seguindo a regra de máximo de 4 por atributo.
+Para adicionar os atributos a sua ficha de personagem, distribua 10 pontos entre os 6 atributos **até um máximo de 4 por atributo**. Cada atributo começa com 0 de valor, e até dois pontos podem ser retirados desse valor de zero para colocar em outro atributo, ainda seguindo a regra de máximo de 4 por atributo.
 
 Seus valores de **Força** e **Destreza** são adicionados as rolagens de dano que usam **Luta** e **Pontaria**, respectivamente, a não ser que uma habilidade diga o contrário.
 
-Após seus atributos serem decididos, o próximo passo é calcular os seus Status:
-[[Capítulo 2 - Status]]
+Após seus atributos serem decididos, o próximo passo é escolher sua origem e sua classe:
+[[Capítulo 2 - Origens, Classes e Mais]]
