@@ -1,3 +1,4 @@
+![[Pasted image 20250201220711.png]]
 Existem raros casos de pessoas cuja energia e técnica amaldiçoada derivaram de uma fonte alternativa, a qual veio em momentos posteriores da sua vida e, possivelmente, de maneira não natural, seja pelo consumo de um objeto amaldiçoado, alguma alteração na alma, experimentou o que for, aquilo para sempre mudou a pessoa. :)
 
 ---
