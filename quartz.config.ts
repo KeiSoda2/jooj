@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Jujutsu RPG",
-    pageTitleSuffix: "Jujutsu RPG",
+    pageTitleSuffix: "- Jujutsu RPG",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
