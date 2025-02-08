@@ -1,3 +1,4 @@
+![[Inato.png]]
 O Inato é possivelmente a origem mais comum no mundo do Jujutsu, sendo aqueles que nasceram com a afinidade para usar energia amaldiçoada e com uma técnica própria, a qual se manifesta em algum ponto, sendo preciso apenas a treinar e desenvolver. Por ser única no mundo, a sua técnica é imprevisível e você tem o potencial de se inovar cada vez mais
 
 ---

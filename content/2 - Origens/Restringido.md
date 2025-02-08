@@ -1,3 +1,4 @@
+![[Restringido.png]]
 Certas pessoas, no meio dos feiticeiros, nascem com uma quantidade quase nula de energia amaldiçoada, recebendo em troca um físico mais desenvolvido e capacidades especiais, além de compensar com o uso magistral de ferramentas amaldiçoadas. No começo, são considerados fracassos, pois possuem mais dificuldade em tudo aquilo que é fácil para os outros feiticeiros, porém, ao alcançar um nível nulo de energia, se tornam anomalias devastadoras.
 
 ---

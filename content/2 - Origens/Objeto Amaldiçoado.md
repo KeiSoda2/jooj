@@ -1,4 +1,4 @@
-Um corpo amaldiçoado mutante passou por um processo que concede ao corpo criado uma consciência própria, uma fonte renovável de energia amaldiçoada e a capacidade de possuir vários núcleos, com cada um possuindo suas próprias características únicas, alternando o seu funcionamento e foco dentro e fora de combate
+![[Objeto Amaldicoado.png]]Um corpo amaldiçoado mutante passou por um processo que concede ao corpo criado uma consciência própria, uma fonte renovável de energia amaldiçoada e a capacidade de possuir vários núcleos, com cada um possuindo suas próprias características únicas, alternando o seu funcionamento e foco dentro e fora de combate
 
 ---
 
