@@ -1,3 +1,4 @@
+![[Pasted image 20250201221625.png]]
 Um feto amaldiçoado é um espírito amaldiçoado em estado embrionário, o qual, em condições específicas, pode acabar se tornando um **Híbrido** entre humano e maldição. Isso resulta em uma constituição e anatomia única, além da capacidade de dominar o Jujutsu e suas técnicas de maneira natural.
 
 ---
