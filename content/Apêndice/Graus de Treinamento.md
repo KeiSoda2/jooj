@@ -1,0 +1,3 @@
+- ***Treinado.*** **Valor de 2** - Disponível a partir do Nível 1
+- ***Perito.*** **Valor de 4** - Disponível a partir do Nível 7
+- ***Especialista.*** **Valor de 6** - Disponível a partir do Nível 14
