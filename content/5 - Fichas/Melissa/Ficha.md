@@ -76,7 +76,7 @@ O usuário consegue transmutar energia amaldiçoada em metais ferromagnéticos.
 
 **Habilidades** 
 
-> ***Corrente Sanguínea.*** Alcance Curto. Bônus de Rolagem: Pontaria. O usuário manipula o ferro em seu sangue para formar correntes que saem da ponta de seus dedos, acorrentam um inimigo e suga sua energia vital. O inimigo deve fazer um teste de Força DC 15 ou levar 3d8 de dano amaldiçoado e ficar imóvel, num sucesso ele leva metade do dano e se solta. Metade do dano proferido pode ser usado para curar o usuário ou uma criatura de sua escolha; **Custo de Energia - 1**
+> ***Corrente Sanguínea.*** Alcance Curto. Bônus de Rolagem: Pontaria. O usuário manipula o ferro em seu sangue para formar correntes que saem da ponta de seus dedos, que acorrentam um inimigo e sugam sua energia vital. O inimigo deve fazer um teste de Força DC 15 ou levar 3d8 de dano amaldiçoado e ficar imóvel, num sucesso ele leva metade do dano e se solta. Metade do dano proferido pode ser usado para curar o usuário ou uma criatura de sua escolha; **Custo de Energia - 1**
 > 
 > ***The Summoning.*** O usuário toca o chão, imbuindo energia amaldiçoada em um local em um raio de 3 metros. A área funciona como uma mina, onde quando um inimigo pisa naquele local nos próximos turnos, ela é ativada automaticamente. Espinhos são criados da energia amaldiçoada imbuida. O inimigo deve fazer um teste de Destreza DC 15 ou receber 2d12 de dano Perfurante. Num sucesso, ele leva metade do dano. O usuário também pode ativar a habilidade manualmente. Após utilizada a habilidade desativa. **Custo de Energia - 1**
 >

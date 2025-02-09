@@ -9,7 +9,7 @@ O Restringido é o mais único tipo de feiticeiro devido a um simples fato: não
 > 
 > ***Atributos para CD de Classe.*** Um Restringido pode escolher qualquer atributo para calcular a CD das suas habilidades de especialização
 
-Restrito pelos Céus. Para compensar sua falta de energia amaldiçoada, um restringido recebe vários benefícios atrelados ao seu físico maior e aptidão ao combate: 
+***Restrito pelos Céus.*** Para compensar sua falta de energia amaldiçoada, um restringido recebe vários benefícios atrelados ao seu físico maior e aptidão ao combate: 
 - Você pode escolher adicionar também seu modificador de Força ou de Constituição na sua Classe de Armadura, limitado pelo seu nível. 
 - Você começa com uma ferramenta amaldiçoada e um meio de ver maldições (óculos ou lente). A partir do segundo nível, você recebe acesso a criar Armas Amaldiçoadas.
 - No 4° nível, e depois a cada 4 níveis, você recebe uma Dádiva do Céu.
