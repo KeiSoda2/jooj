@@ -1,7 +1,5 @@
 ## Nome
-> **Origem:**
-> **Classe:**
-> **Nível:**
+> **Origem, Classe - Nível X**
 
 | Status | Valor     |
 | ------ | --------- |
