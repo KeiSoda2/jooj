@@ -41,9 +41,9 @@
 
 ### Ataques
 
-| Ataque       | Dano     | Tipo de Dano           | Alcance | Bônus |
-| ------------ | -------- | ---------------------- | ------- | ----- |
-| Espada Longa | 1d8/1d10 | Cortante \| Perfurante | -       | +2    |
+| Ataque       | Dano         | Tipo de Dano           | Alcance | Bônus |
+| ------------ | ------------ | ---------------------- | ------- | ----- |
+| Espada Longa | 1d8/1d10 + 2 | Cortante \| Perfurante | -       | +2    |
 
 > [!Ataques] 
 > ***Espada Longa.*** *Uma espada longa similar a aquelas usadas na era medieval. Pode ser empunhado com uma ou duas mãos. Mudando de 1d8 para uma mão a 1d10 para duas mãos.*

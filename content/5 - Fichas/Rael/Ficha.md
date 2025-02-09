@@ -95,17 +95,11 @@ O usuário consegue manipular o clima e formar nuvens utilizando energia amaldi�
 >  — Aumentar o alcance de sua habilidade em um passo (ex.: Curto → Médio, Médio → Longo, etc.) **/** Adicione o seu valor de Sabedoria + seu Grau de Treinamento ao dano/cura da habilidade **/** Ganhe vantagem em nas rolagens de teste e dano dessa habilidade.
 
 > [!Habilidades de Classe]
-> ***Domínio dos Fundamentos.*** Como um especialista em técnicas, você tem uma maior dominância sobre os fundamentos da energia amaldiçoada e das suas habilidades. Você aprende duas das Mudanças de Fundamento abaixo:
-> 
-> **Técnica Cruel.** *Quando usar uma habilidade de técnica que força um teste de resistência você pode gastar 1 ponto de energia amaldiçoada para aumentar a CD do teste em 2 ou 2 pontos para aumentar em 4.*
+> ***Domínio dos Fundamentos.*** Como um especialista em técnicas, você tem uma maior dominância sobre os fundamentos da energia amaldiçoada e das suas habilidades.
 > 
 > **Técnica Cuidadosa.** *Quando usar uma habilidade de técnica em área você pode prevenir certas criaturas de serem afetadas. Você pode gastar uma quantidade de pontos igual ao seu valor de Inteligência ou Sabedoria para fazer com que o dobro da quantidade de criaturas não seja afetado.*
 > 
 > **Técnica Distante.** *Quando usar uma habilidade a distância, você pode gastar 2 pontos de energia amaldiçoada para subir um nível de seu alcance. Caso seja uma habilidade corpo-a-corpo, você pode gastar 2 pontos de energia para a dar um alcance Curto.*
-> 
-> **Técnica Potente.** *Quando usar uma habilidade de dano, você pode gastar 3 pontos de energia amaldiçoada e rolar novamente uma quantidade de dados de dano igual ao seu valor de Inteligência ou Sabedoria, utilizando os melhores resultados.*
-> 
-> **Técnica Precisa.** *Quando usar uma habilidade de técnica que utilize um teste de ataque, você pode gastar 1 ponto de energia amaldiçoada para receber +2 de acerto ou 2 pontos de energia amaldiçoada para receber +5 de acerto.*
 > 
 > Você aprende mais uma no nível 6, no nível 12 e no nível 18.
 
