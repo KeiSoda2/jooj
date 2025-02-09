@@ -81,13 +81,13 @@ O usuário consegue transmutar energia amaldiçoada em gelo.
 
 **Habilidades** 
 
-> ***Corrente Sanguínea.*** Você forma um espeto de gelo e o dispara contra uma criatura, perfurando. Realize um teste de ataque de técnica (Feitiçaria ou Pontaria) contra o alvo e, caso acerte, causa 4d8+3 de dano perfurante, além de causar sangramento ao alvo.; **Custo de Energia - 1**
+> ***Espinhos Frios.*** Alcance Curto. Bônus de Rolagem: Precisão. Você forma um espeto de gelo e o dispara contra uma criatura, perfurando. Em um acerto, causa 3d8+3 de dano perfurante, além de causar sangramento ao alvo..; **Custo de Energia - 1**
 > 
-> ***The Summoning.*** O usuário toca o chão, imbuindo energia amaldiçoada em um local em um raio de 3 metros. A área funciona como uma mina, onde quando um inimigo pisa naquele local nos próximos turnos, ela é ativada automaticamente. Espinhos são criados da energia amaldiçoada imbuida. O inimigo deve fazer um teste de Destreza DC 15 ou receber 2d12 de dano Perfurante. Num sucesso, ele leva metade do dano. O usuário também pode ativar a habilidade manualmente. Após utilizada a habilidade desativa. **Custo de Energia - 1**
+> ***Área Absoluta.*** O usuário cria uma área de gelo fino no chão, dando mais mobilidade para seus aliados em 4,5 metros e adicionando +2 de CA até o fim da cena. O usuário também pode escolher fazer um alvo fazer um teste de resistência de Destreza ou ficar caído.. **Custo de Energia - 1**
 >
-> ***Lâmina Vorpal.***  Alcance Curto. Bônus de Rolagem: Pontaria. Dano: 1d10 + Carisma. Você forma uma lâmina de energia amaldiçoada que paira ao redor de seu corpo. A lâmina pode atacar durante o seu turno, não contando para gasto de ações seu. **Custo de Energia - 2**
+> ***Fica Frio Aí.***  O usuário cria um caminho de gelo enquanto corre, aumentando sua velocidade em +4.5m. Criaturas aliadas que forem em direção ao usuário também ganham essa movimentação extra ao entrar no caminho. Criaturas inimigas devem fazer um teste de Destreza DC 15 ou ficarem caídas. **Custo de Energia - 2**
 > 
-> ***Metallica.***  Alcance Corpo-a-Corpo. Bônus de Rolagem: Luta. Dano 2d10. Manipulando o ferro na corrente sanguínea de seu oponente e também sua energia amaldiçoada, você forma navalhas, pregos, lâminas e outros objetos nocivos de metal dentro do oponente. Ele deve fazer um teste de Constituição DC 15 ou tomar 2d10 de dano Cortante ou Perfurante a sua escolha. Num sucesso ele leva metade. **Custo de Energia - 0**
+> ***Frostbite.*** O usuário congela parte de uma arma que estiver usando e adiciona um efeito de frostbite aos seus ataques. Você recebe +1d8 de dano Frio em seu ataque com arma.  **Custo de Energia - 0**
 
 ### Habilidades
 
