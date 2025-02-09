@@ -62,7 +62,7 @@
 
 ### Técnica Amaldiçoada
 #### Controle de Ossos
-Usuário: *Rael*
+Usuário: *Sosô*
 
 | CD de Técnica | Força | 16  |
 | ------------- | ----- | --- |
