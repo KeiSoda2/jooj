@@ -6,7 +6,7 @@
 | **HP**              | **12/12** |
 | **AC**              | **15**    |
 | **Energia**         | **6/6**   |
-| **Redução de Dano** | 3         |
+| **Redução de Dano** | 0         |
 
 ### Atributos
 
