@@ -99,8 +99,11 @@ O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
 > _**Suporte em Combate.**_ Um suporte dispõe de um leque de capacidades que o permite auxiliar dentro do combate:
 > — Você pode usar Apoiar como uma ação bônus.
 > — Você pode, como uma ação bônus, curar uma criatura em alcance de toque em um valor igual a 2d6 + seu valor de Carisma ou Sabedoria, uma quantidade de vezes igual ao seu valor de Carisma ou Sabedoria, por descanso curto ou longo. No nível 4, essa cura se torna 2d12, no nível 8, se torna 3d12, no nível 12 se torna 6d8, no nível 16 se torna 6d10.
->   
-  ***Presença Inspiradora.*** Sua presença inspira aqueles ao seu redor a tentarem seu máximo. Você pode pagar 2 pontos de energia amaldiçoada para fazer com que, durante uma cena, todo aliado dentro de 9 metros de você fique inspirado. Um aliado inspirado recebe um bônus de +1 em toda rolagem de perícia. Nos níveis 5, 9, 13 e 17 você pode gastar 2 pontos de energia a mais para aumentar o bônus concedido em +1.
+
+
+> [!Habilidades de Classe]
+>***Presença Inspiradora.*** Sua presença inspira aqueles ao seu redor a tentarem seu máximo. Você pode pagar 2 pontos de energia amaldiçoada para fazer com que, durante uma cena, todo aliado dentro de 9 metros de você fique inspirado. Um aliado inspirado recebe um bônus de +1 em toda rolagem de perícia. Nos níveis 5, 9, 13 e 17 você pode gastar 2 pontos de energia a mais para aumentar o bônus concedido em +1.
+
 
 ![[Melissa 2.png]]
 
