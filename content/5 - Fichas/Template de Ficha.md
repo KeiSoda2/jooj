@@ -1,38 +1,50 @@
 ## Nome
 > **Origem:**
+> 
 > **Classe:**
+> 
 > **Nível:**
 
-**HP** 10/10
-**AC** 10
+
+| HP     | 10/10  |
+| ------ | ------ |
+| **AC** | **10** |
+
 ### Atributos
-> **Força** 0
-> **Destreza**  0
-> **Constituição**  0
-> **Inteligência** 0
-> **Sabedoria** 0
-> **Carisma** 0
+
+| Força            | 0     |
+| ---------------- | ----- |
+| **Destreza**     | **0** |
+| **Constituição** | **0** |
+| **Inteligência** | **0** |
+| **Sabedoria**    | **0** |
+| **Carisma**      | **0** |
+
 ### Perícias
-> ﻿Atletismo 0
-> ﻿Acrobacia 0
-> ﻿Furtividade 0
-> ﻿Crime 0
-> ﻿História 0
-> ﻿Investigação 0
-> ﻿Natureza 0
-> ﻿Ocultismo 0
-> ﻿Tecnologia 0
-> ﻿Intuição 0
-> ﻿Luta 0
-> ﻿Precisão 0
-> ﻿Medicina 0
-> ﻿Reflexos 0
-> ﻿Fortitude 0
-> ﻿Percepção 0
-> ﻿Sobrevivência 0
-> ﻿Intimidação 0
-> ﻿Persuasão 0
-> ﻿Vontade 0
+
+| Perícia       | Bônus |
+| ------------- | ----- |
+| Atletismo     | 0     |
+| Acrobacia     | 0     |
+| Furtividade   | 0     |
+| Crime         | 0     |
+| História      | 0     |
+| Investigação  | 0     |
+| Natureza      | 0     |
+| Ocultismo     | 0     |
+| Tecnologia    | 0     |
+| Intuição      | 0     |
+| Luta          | 0     |
+| Precisão      | 0     |
+| Medicina      | 0     |
+| Reflexos      | 0     |
+| Fortitude     | 0     |
+| Percepção     | 0     |
+| Sobrevivência | 0     |
+| Intimidação   | 0     |
+| Persuasão     | 0     |
+| Vontade       | 0     |
+
 ### Ataques
 
 | Ataque | Dano | Tipo de Dano | Alcance | Bônus |
@@ -41,7 +53,7 @@
 | -      | -    | -            | -       | -     |
 | -      | -    | -            | -       | -     |
 
-> [!Descrição de Ataques] 
+> [!Ataques] 
 > ***Ataque.*** *Descrição*
 
 ### Equipamentos
@@ -54,7 +66,7 @@
 
 | Patente | Carga | Categoria 1 | Categoria 2 | Categoria 3 | Categoria 4 |
 | ------- | ----- | ----------- | ----------- | ----------- | ----------- |
-|         |       |             |             |             |             |
+| Grau 4  | -     | -           | -           | -           | -           |
 
 ### Técnica Amaldiçoada
 #### Nome da Técnica.
