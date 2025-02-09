@@ -20,7 +20,7 @@
 | ------------------- | ----- |
 | Atletismo (FOR)     | **8** |
 | Acrobacia (DES)     | 4     |
-| Furtividade (DES)   | 4     |
+| Furtividade (DES)   | **6** |
 | Crime (DES)         | 4     |
 | História (INT)      | 1     |
 | Investigação (INT)  | 1     |
@@ -32,10 +32,10 @@
 | Precisão (DES)      | **6** |
 | Medicina (INT)      | 1     |
 | Reflexos (DES)      | **6** |
-| Fortitude (CON)     | 4     |
-| Percepção (SAB)     | -2    |
+| Fortitude (CON)     | **6** |
+| Percepção (SAB)     | **0** |
 | Sobrevivência (SAB) | -2    |
-| Intimidação (CAR)   | 1     |
+| Intimidação (CAR)   | **3** |
 | Persuasão (CAR)     | 1     |
 | Vontade (CAR)       | 1     |
 
