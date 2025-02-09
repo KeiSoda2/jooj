@@ -1,19 +1,18 @@
 ## Nome
 > **Origem:**
-> 
 > **Classe:**
-> 
 > **Nível:**
 
-
-| HP     | 10/10  |
-| ------ | ------ |
-| **AC** | **10** |
+| Status | Valor     |
+| ------ | --------- |
+| **HP** | **10/10** |
+| **AC** | **10**    |
 
 ### Atributos
 
-| Força            | 0     |
+| Atributo         | Valor |
 | ---------------- | ----- |
+| **Força**        | **0** |
 | **Destreza**     | **0** |
 | **Constituição** | **0** |
 | **Inteligência** | **0** |
