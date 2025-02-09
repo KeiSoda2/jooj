@@ -9,14 +9,9 @@
 
 ### Atributos
 
-| Atributo         | Valor |
-| ---------------- | ----- |
-| **Força**        | **2** |
-| **Destreza**     | **2** |
-| **Constituição** | **1** |
-| **Inteligência** | **2** |
-| **Sabedoria**    | **1** |
-| **Carisma**      | **3** |
+| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
+| ----- | -------- | ------------ | ------------ | --------- | ------- |
+| **2** | **2**    | **1**        | **2**        | **1**     | **3**   |
 
 ### Perícias
 
@@ -66,9 +61,9 @@
 ### Técnica Amaldiçoada
 #### Nome da Técnica.
 Usuário: *Nome do Personagem*
-```
-CD de Técnica: 15
-```
+
+| CD de Técnica | Sabedoria | 15  |
+| ------------- | --------- | --- |
 
 O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
 
