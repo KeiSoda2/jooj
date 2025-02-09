@@ -66,7 +66,9 @@
 ### Técnica Amaldiçoada
 #### Nome da Técnica.
 Usuário: *Nome do Personagem*
-CD de Técnica: **15**
+```
+CD de Técnica: 15
+```
 
 O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
 
