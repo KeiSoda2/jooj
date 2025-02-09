@@ -1,17 +1,18 @@
 ## Melissa
 > **Inato, Suporte - Nível 1**
 
-| Status      | Valor     |
-| ----------- | --------- |
-| **HP**      | **11/11** |
-| **AC**      | **14**    |
-| **Energia** | **9/9**   |
+| Status              | Valor     |
+| ------------------- | --------- |
+| **HP**              | **11/11** |
+| **AC**              | **14**    |
+| **Energia**         | **9/9**   |
+| **Redução de Dano** | 3         |
 
 ### Atributos
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | ----- | -------- | ------------ | ------------ | --------- | ------- |
-| **2** | **2**    | **1**        | **2**        | **1**     | **3**   |
+| **2** | **2**    | **1**        | **3**        | **2**     | **3**   |
 
 ### Perícias
 
@@ -21,19 +22,19 @@
 | Acrobacia (DES)     | 2     |
 | Furtividade (DES)   | 2     |
 | Crime (DES)         | **4** |
-| História (INT)      | 2     |
-| Investigação (INT)  | 2     |
-| Natureza (INT)      | 2     |
-| Ocultismo (SAB)     | **3** |
-| Tecnologia (INT)    | 2     |
-| Intuição (SAB)      | **3** |
+| História (INT)      | 3     |
+| Investigação (INT)  | 3     |
+| Natureza (INT)      | 3     |
+| Ocultismo (SAB)     | **4** |
+| Tecnologia (INT)    | 3     |
+| Intuição (SAB)      | **4** |
 | Luta (FOR)          | 2     |
 | Precisão (DES)      | 2     |
-| Medicina (INT)      | **4** |
+| Medicina (INT)      | **5** |
 | Reflexos (DES)      | 2     |
 | Fortitude (CON)     | 1     |
-| Percepção (SAB)     | 1     |
-| Sobrevivência (SAB) | **3** |
+| Percepção (SAB)     | 2     |
+| Sobrevivência (SAB) | **4** |
 | Intimidação (CAR)   | 3     |
 | Persuasão (CAR)     | **5** |
 | Vontade (CAR)       | **5** |
@@ -59,27 +60,29 @@
 | Grau 4  | 12    | 2           | -           | -           | -           |
 
 ### Técnica Amaldiçoada
-#### Nome da Técnica.
-Usuário: *Nome do Personagem*
+#### Alice In Chains
+Usuário: *Melissa*
 
-| CD de Técnica | Sabedoria | 15  |
-| ------------- | --------- | --- |
+| CD de Técnica | Carisma | 15  |
+| ------------- | ------- | --- |
 
-O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
+O usuário consegue transmutar energia amaldiçoada em metais ferromagnéticos.
 
 **Características** 
 
-> ***Aumento no Valor de Habilidade.*** Seu valor de **Atributo 1** aumenta em 1 e seu valor de **Atributo 2** aumenta em 1.
+> ***Aumento no Valor de Habilidade.*** Seu valor de **Sabedoria** aumenta em 1 e seu valor de **Inteligência** aumenta em 1.
 > 
-> ***Habilidade Passiva.*** Descrição da habilidade passiva, ela está sempre ativa e garante algum tipo de vantagem a todo momento ao seu personagem.
+> ***Defesa Metálica.*** O usuário junta e transmuta energia amaldiçoada em um metal denso em cima de sua pele no momento de um impacto, reduzindo o dano causado. Você tem redução de dano físico 3.
 
 **Habilidades** 
 
-> ***Habilidade Ativa 1.*** Uma habilidade ativa precisa ser utilizada ativamente durante um combate ou cena. Ela pode ter um limite de uso ou ser baseada apenas no tanto de energia que você tem.
+> ***Corrente Sanguínea.*** Alcance Curto. Bônus de Rolagem: Pontaria. O usuário manipula o ferro em seu sangue para formar correntes que saem da ponta de seus dedos, acorrentam um inimigo e suga sua energia vital. O inimigo deve fazer um teste de Força DC 15 ou levar 3d8 de dano amaldiçoado e ficar imóvel, num sucesso ele leva metade do dano e se solta. Metade do dano proferido pode ser usado para curar o usuário ou uma criatura de sua escolha; **Custo de Energia - 1**
 > 
-> ***Habilidade Ativa 2.*** Habilidades ativas podem causar dano, cura ou fazerem efeitos narrativos e mecânicos variados.
+> ***The Summoning.*** O usuário toca o chão, imbuindo energia amaldiçoada em um local em um raio de 3 metros. A área funciona como uma mina, onde quando um inimigo pisa naquele local nos próximos turnos, ela é ativada automaticamente. Espinhos são criados da energia amaldiçoada imbuida. O inimigo deve fazer um teste de Destreza DC 15 ou receber 2d12 de dano Perfurante. Num sucesso, ele leva metade do dano. O usuário também pode ativar a habilidade manualmente. Após utilizada a habilidade desativa. **Custo de Energia - 1**
 >
-> ***Habilidade Ativa 3.***  Você recebe mais habilidades de técnica ativas e passivas ao longo que seu personagem sobe de nível.
+> ***Lâmina Vorpal.***  Alcance Curto. Bônus de Rolagem: Pontaria. Dano: 1d10 + Carisma. Você forma uma lâmina de energia amaldiçoada que paira ao redor de seu corpo. A lâmina pode atacar durante o seu turno, não contando para gasto de ações seu. **Custo de Energia - 2**
+> 
+> ***Metallica.***  Alcance Corpo-a-Corpo. Bônus de Rolagem: Luta. Dano 2d10. Manipulando o ferro na corrente sanguínea de seu oponente e também sua energia amaldiçoada, você forma navalhas, pregos, lâminas e outros objetos nocivos de metal dentro do oponente. Ele deve fazer um teste de Constituição DC 15 ou tomar 2d10 de dano Cortante ou Perfurante a sua escolha. Num sucesso ele leva metade. **Custo de Energia - 0**
 
 ### Habilidades
 
