@@ -5,7 +5,7 @@ O Controlador é uma especialização cujo propósito é controlar invocações,
 > 
 > ***Pontos de Vida em Níveis Subsequentes.*** Em níveis subsequentes ao primeiro, seu máximo de vida aumenta em 1d10 + valor de Constituição. Você também pode escolher aumentar em 6 + valor de Constituição, ao invés de rolar.
 > 
-> ***Treinamento.*** Treinado em Persuasão, Percepção, Vontade e outras três quaisquer. Armas Simples. Escudo Leve.
+> ***Treinamento.*** Treinado em Persuasão, Percepção, Vontade e outras três quaisquer. Armas Simples.
 > 
 > ***Atributos para CD de Classe.*** Um Controlador pode escolher entre Carisma ou Sabedoria como atributos para calcular a CD das suas habilidades de especialização..
 

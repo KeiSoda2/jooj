@@ -5,7 +5,7 @@ O Combatente trata o combate como uma arte a se desenvolver e dominar, focando e
 > 
 > ***Pontos de Vida em Níveis Subsequentes.*** Em níveis subsequentes ao primeiro, seu máximo de vida aumenta em 1d12 + valor de Constituição. Você também pode escolher aumentar em 6 + valor de Constituição, ao invés de rolar.
 > 
-> ***Treinamento.*** Treinado em Luta, Pontaria e Fortitude. Atletismo ou Acrobacia e três outras quaisquer. Todas as armas e escudos.
+> ***Treinamento.*** Treinado em Luta, Pontaria e Fortitude. Atletismo ou Acrobacia e três outras quaisquer. Todas as armas.
 > 
 > ***Atributos para CD de Classe.*** Um Combatente pode escolher entre Força, Destreza ou Sabedoria como atributos para calcular a CD das suas habilidades de especialização.
 

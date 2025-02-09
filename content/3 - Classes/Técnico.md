@@ -5,7 +5,7 @@ O Técnico se dedica completamente em maximizar o potencial da sua energia amald
 > 
 > ***Pontos de Vida em Níveis Subsequentes.*** Em níveis subsequentes ao primeiro, seu máximo de vida aumenta em 1d10 + valor de Constituição. Você também pode escolher aumentar em 6 + valor de Constituição, ao invés de rolar.
 > 
-> ***Treinamento.*** Persuasão, Ocultismo, Vontade, Intimidação, e outras três quaisquer. Armas simples e armas a distância.
+> ***Treinamento.*** Persuasão, Ocultismo, Vontade, Intimidação, e outras três quaisquer. Armas simples.
 > 
 > ***Atributos para CD de Classe.*** Um Técnico pode escolher entre Inteligência ou Sabedoria como atributos para calcular a CD das suas habilidades de especialização.
 

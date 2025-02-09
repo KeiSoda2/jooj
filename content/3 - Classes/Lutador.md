@@ -5,7 +5,7 @@ O Lutador é um especialista no combate físico, podendo se dedicar a armas marc
 > 
 > ***Pontos de Vida em Níveis Subsequentes.*** Em níveis subsequentes ao primeiro, seu máximo de vida aumenta em 1d12 + valor de Constituição. Você também pode escolher aumentar em 6 + valor de Constituição, ao invés de rolar.
 > 
-> ***Treinamento.*** Treinado em Fortitude, Luta e Reflexos. Atletismo ou Acrobacia e duas outras quaisquer. Armas Marciais e Escudo Leve.
+> ***Treinamento.*** Treinado em Fortitude, Luta e Reflexos. Atletismo ou Acrobacia e duas outras quaisquer. Armas Marciais.
 > 
 > ***Atributos para CD de Classe.*** Um Suporte pode escolher entre Força ou Destreza como atributos para calcular a CD das suas habilidades de especialização.
 

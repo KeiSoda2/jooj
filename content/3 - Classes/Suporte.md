@@ -5,7 +5,7 @@ O Suporte é um tipo de feiticeiro focado em auxiliar seus aliados no campo de b
 > 
 > ***Pontos de Vida em Níveis Subsequentes.*** Em níveis subsequentes ao primeiro, seu máximo de vida aumenta em 1d10 + valor de Constituição. Você também pode escolher aumentar em 6 + valor de Constituição, ao invés de rolar.
 > 
-> ***Treinamento.*** Treinado em Persuasão, Medicina, Crime, Vontade e outras três quaisquer. Armas Simples e Escudos.
+> ***Treinamento.*** Treinado em Persuasão, Medicina, Crime, Vontade e outras três quaisquer. Armas Simples.
 > 
 > ***Atributos para CD de Classe.*** Um Suporte pode escolher entre Carisma ou Sabedoria como atributos para calcular a CD das suas habilidades de especialização.
 
