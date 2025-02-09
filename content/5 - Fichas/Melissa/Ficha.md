@@ -1,4 +1,3 @@
-![[Melissa 2.png]]
 ## Melissa
 > **Inato, Suporte - Nível 1**
 
@@ -93,9 +92,7 @@ O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
 > 
 > ***Evolução Adaptativa.*** Sua técnica inata não é apenas única, mas também mutável, reagindo aos desafios que enfrenta. Você possui uma reserva de potencial bruto que se manifesta quando pressionado. Uma vez por cena, quando falha em um teste de técnica ou sofre dano crítico, você pode adaptar instantaneamente sua técnica para superar a situação. Na próxima vez que usar sua habilidade, escolha uma dessas modificações para uma habilidade de técnica sua. Essa modificação dura até o seu próximo turno:
 > 
->  — Aumentar o alcance de sua habilidade em um passo (ex.: Curto → Médio, Médio → Longo, etc.)
->  — Adicione o seu valor de Sabedoria + seu Grau de Treinamento ao dano/cura da habilidade
->  — Ganhe vantagem em nas rolagens de teste e dano dessa habilidade.
+>  — Aumentar o alcance de sua habilidade em um passo (ex.: Curto → Médio, Médio → Longo, etc.) **/** Adicione o seu valor de Sabedoria + seu Grau de Treinamento ao dano/cura da habilidade **/** Ganhe vantagem em nas rolagens de teste e dano dessa habilidade.
 
 
 > [!Habilidades de Classe]
@@ -103,7 +100,7 @@ O usuário consegue usar energia amaldiçoada para utilizar certa habilidade.
 > — Você pode usar Apoiar como uma ação bônus.
 > — Você pode, como uma ação bônus, curar uma criatura em alcance de toque em um valor igual a 2d6 + seu valor de Carisma ou Sabedoria, uma quantidade de vezes igual ao seu valor de Carisma ou Sabedoria, por descanso curto ou longo. No nível 4, essa cura se torna 2d12, no nível 8, se torna 3d12, no nível 12 se torna 6d8, no nível 16 se torna 6d10.
 >   
-  **Presença Inspiradora.**_ Sua presença inspira aqueles ao seu redor a tentarem seu máximo. Você pode pagar 2 pontos de energia amaldiçoada para fazer com que, durante uma cena, todo aliado dentro de 9 metros de você fique inspirado. Um aliado inspirado recebe um bônus de +1 em toda rolagem de perícia. Nos níveis 5, 9, 13 e 17 você pode gastar 2 pontos de energia a mais para aumentar o bônus concedido em +1.
+  ***Presença Inspiradora.*** Sua presença inspira aqueles ao seu redor a tentarem seu máximo. Você pode pagar 2 pontos de energia amaldiçoada para fazer com que, durante uma cena, todo aliado dentro de 9 metros de você fique inspirado. Um aliado inspirado recebe um bônus de +1 em toda rolagem de perícia. Nos níveis 5, 9, 13 e 17 você pode gastar 2 pontos de energia a mais para aumentar o bônus concedido em +1.
 
-
+![[Melissa 2.png]]
 
