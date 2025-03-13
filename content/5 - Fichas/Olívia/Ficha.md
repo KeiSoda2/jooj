@@ -10,9 +10,9 @@
 
 ### Atributos
 
-| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
-| ----- | -------- | ------------ | ------------ | --------- | ------- |
-| **3** | **3**    | **2**        | **2**        | **3**     | **1**   |
+| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |     |
+| ----- | -------- | ------------ | ------------ | --------- | ------- | --- |
+| **3** | **3**    | **2**        | **2**        | **3**     | **1**   |     |
 
 ### Perícias
 
@@ -29,7 +29,7 @@
 | Tecnologia (INT)    | 2     |
 | Intuição (SAB)      | 2     |
 | Luta (FOR)          | **5** |
-| Precisão (DES)      | 3     |
+| Precisão (DES)      | 5     |
 | Medicina (INT)      | 2     |
 | Reflexos (DES)      | **5** |
 | Fortitude (CON)     | **4** |
@@ -100,20 +100,31 @@ O usuário consegue transmutar energia amaldiçoada em gelo.
 >  — Aumentar o alcance de sua habilidade em um passo (ex.: Curto → Médio, Médio → Longo, etc.) **/** Adicione o seu valor de Sabedoria + seu Grau de Treinamento ao dano/cura da habilidade **/** Ganhe vantagem em nas rolagens de teste e dano dessa habilidade.
 
 > [!Habilidades de Classe]
-> **Mestre da Luta.** Um lutador é um mestre da luta, dedicando-se ao desenvolvimento do seu corpo e ao manejo de armas marciais que se encaixem em seu estilo intenso e adaptável em batalha. Sendo um lutador, você recebe as seguintes capacidades:
+> ***Repertório do Especialista.*** Como um Especialista em Combate, você pode escolher um estilo principal para seguir em sua especialização. No primeiro nível, você recebe um dos estilos de combate abaixo:
 > 
-> *Você sabe desferir golpes rápidos com o seu corpo. Quando realizar um ataque desarmado ou com uma arma marcial, você pode realizar um ataque desarmado como uma ação bônus.*
+> **Estilo Defensivo.** *Você foca em aprimorar a sua defesa. Sua Classe de Armadura aumenta em 2 e, nos níveis 4, 8, 12 e 16 aumenta em +1.*
 > 
-> *Você treinou e se dedicou a fazer com que seu corpo fosse uma arma por si só. O dano dos seus ataques desarmados se torna 1d6. Nos níveis 5, 9, 13 e 17 seu dano desarmado aumenta para 1d8, 1d10, 2d6 e 2d8, respectivamente.*
+> **Estilo do Duelista.** *Você foca em duelar com uma única arma em mãos. Ao usar uma arma em uma mão e ter a outra livre, você recebe +2 em rolagens de acerto e dano, o qual aumenta em +1 nos níveis 4, 8, 12 e 16.*
 > 
-> *Versatilidade e adaptabilidade são importantes. Você pode escolher usar tanto força quanto destreza nos seus ataques desarmados e ataques com armas marciais.* 
+> **Estilo do Interceptador.** *Você se dedica a utilizar de suas armas para interceptar ataques em seus aliados. Quando um aliado dentro do seu alcance receber um ataque, você pode usar sua reação para reduzir o dano causado em 1d10 + seu valor de força, destreza ou sabedoria, aumentando em um dado nos níveis 4, 8, 12 e 16.*
+> 
+> **Estilo do Protetor.** *Você se dedica a proteger seus aliados, buscando evitar um acerto. Quando uma criatura ataca um alvo além de você, que esteja dentro de 1,5 metros, você pode usar sua reação para impor desvantagem. Além disso, você pode também conceder vantagem no Teste de Resistência de um aliado dentro de 1,5 metros.*
+> 
+> **Estilo Distante.** *Você sabe como usar armas que focam em atingir de maneira distante. Você recebe +2 em rolagens de acerto e dano com armas a distância, o qual aumenta em +1 nos níveis 4, 8, 12 e 16.*
+> 
+> Você recebe um novo estilo de combate no nível 6 e outro no 12, complementando suas capacidades dentro de combate.
 
 > [!Habilidades de Classe]
->***Empolgação.*** Uma boa luta é empolgante e te motiva a se arriscar mais e mais, permitindo movimentos mais fortes e únicos. Para isso, você precisa continuar acertando golpes: você começa um combate com Nível de Empolgação 1 e, caso acerte pelo menos um ataque durante seu turno, no começo do seu próximo turno você sobe um nível de empolgação, até um máximo de 5 níveis. A empolgação te permite realizar certas manobras especiais, as quais normalmente são fortalecidas por um bônus, que é o Dado de Empolgação.
+>***Arte do Combate.*** Levando o combate como uma arte a se estudar e aperfeiçoar, você sabe como se preparar e usar desse preparo para o possibilitar realizar ações especiais dentro de um combate. Você recebe uma quantidade de Pontos de Preparo igual ao seu nível de Especialista em Combate + Grau de Treinamento, os quais são usados para realizar artes de combate. Você sabe as seguintes artes de combate:
 >
->Sempre que realizar uma manobra, você desce um nível de empolgação. Caso passe um turno sem acertar um ataque, você também desce um nível de empolgação. 
+>**Arremesso Ágil.** *Ao realizar um ataque corpo-a-corpo, você pode gastar 1 ponto de preparo para, como uma ação bônus, realizar também um ataque com uma arma de arremesso.*
 >
->**Esquiva.** Com o sangue fervendo, é mais fácil se esquivar de ataques. Ao ser acertado por um ataque corpo-a-corpo você pode usar sua reação para diminuir o dano em um valor igual a uma rolagem do seu dado de empolgação + modificador de destreza.
+>**Distração Letal.** *Ao realizar um ataque, você pode gastar 1 ponto de preparo para fazer com que ele foque em distrair o alvo. Caso o ataque acerte, a criatura atingida tem a sua Classe de Armadura reduzida em um valor igual ao seu Grau de Treinamento por uma rodada.*
 >
->**Desarme.** Uma boa luta não deve ser contida pelo porte de uma arma. Ao acertar uma criatura com um ataque você aproveita para tentar a desarmar. Você adiciona seu dado de empolgação ao dano desse ataque e o alvo deve fazer um teste de Luta contra o resultado do seu ataque. Em uma falha ele larga um item à sua escolha que esteja manejando.
-
+>**Execução Silenciosa.** *Ao realizar um ataque em uma criatura desprevenida, você pode gastar 1 ponto de preparo para aumentar a letalidade do ataque, adicionando 1d8 de dano. A cada 4 níveis, o dano aumenta em 1d8.*
+>
+>**Golpe Descendente.** *Ao realizar um ataque corpo-a-corpo, você pode gastar 1 ponto de preparo para fazer com que ele venha por cima. Ao acertar um golpe descendente, sua Classe de Armadura aumenta em um valor igual ao seu Grau de Treinamento até o começo do seu próximo turno.*
+>
+>**Investida Imediata.** *Ao realizar a ação de ataque, você pode gastar 2 pontos de preparo para tornar esse ataque em uma investida imediata, aproximando-se até 4,5 metros de um alvo e realizando o ataque logo após. Esse movimento não causa ataques de oportunidade.*
+>
+>Sempre que eliminar um inimigo, você recupera um Ponto de Preparo; você pode usar sua ação comum para analisar o campo de batalha, recuperando dois Pontos de Preparo. Em um descanso curto, você recupera metade do seu máximo, enquanto em um descanso longo os recupera por completo.****

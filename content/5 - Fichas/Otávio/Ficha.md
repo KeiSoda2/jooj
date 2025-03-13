@@ -1,5 +1,5 @@
 ## Otávio
-> **Inato, Suporte - Nível 1**
+> **Derivado, Suporte - Nível 1**
 
 | Status              | Valor     |
 | ------------------- | --------- |
